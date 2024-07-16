@@ -7,4 +7,5 @@ export default defineConfig({
   build: {
     outDir: "docs",
   },
+  base: "/01-intro-websites-cedricgeissmann/",
 });
